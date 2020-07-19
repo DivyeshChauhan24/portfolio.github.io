@@ -1,0 +1,7 @@
+.About-part2,.progress,.card-part1,.card-part2,.card-part3,.Cont,.Email{
+    opacity: 0;
+}
+.About-part2.animated,.progress.animated,.card-part1.animated,.card-part2.animated,.card-part3.animated,.Cont.animated,.Email.animated
+{
+    opacity: 1;
+}
